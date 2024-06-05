@@ -1,0 +1,35 @@
+{
+    "widget": {
+        "items": [
+            {
+                "entity": "content",
+                "rfk_id": "rfkid_7",
+                "search": {
+                    "content": {
+                        "fields":[
+                            "id","name","description"
+                        ]
+                    },
+                    "query": {
+                        "keyphrase": "TShirt"
+                    },
+                    "sort": {
+                        "value": [
+                            {
+                                "name": "name",
+                                "order": "asc"
+                            }
+                        ]
+                    }
+                },
+                "sources": ["966706"]
+            }
+        ]
+    },
+    "context": {
+        "locale": {
+            "country": "au",
+            "language": "en"
+        }
+    }
+}

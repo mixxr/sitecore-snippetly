@@ -1,0 +1,20 @@
+{
+    "document": {
+        "id": "FR001",
+        "fields": {
+            "name": "voiture 001",
+            "description": "voiture Audi Uithoorn",
+            "type": "Sportback 1.0 TFSI 95pk S-tronic Active",
+            "image_url": "https://picsum.photos/200/200",
+            "variant": "2.1",
+            "part_number":"P1 BLACK",
+            "breadcrumbs":[
+                "Exterieur$LED phares",
+                "Infotainment$Apple Carplay/Android Auto",
+                "Infotainment$Bluetooth préparation téléphonique",
+                "Sécurité$Tête airbag(s) pour",
+                "Autre$Voorstoelen verwarmd"
+            ]
+        }
+    }
+}

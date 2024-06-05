@@ -1,0 +1,20 @@
+{
+    "document": {
+        "id": "211",
+        "fields": {
+            "name": "Kr zwart-staalgrijs",
+            "description": "Maas-De Koning Audi Uithoorn",
+            "type": "Sportback 1.0 TFSI 95pk S-tronic Active",
+            "image_url": "https://picsum.photos/200/200",
+            "variant": "2.1",
+            "part_number":"P1 BLACK",
+            "breadcrumbs":[
+                "Exterieur$LED koplampen",
+                "Infotainment$Apple Carplay/Android Auto",
+                "Infotainment$Bluetooth telefoonvoorbereiding",
+                "Veiligheid$Hoofd airbag(s) voor",
+                "Overig$Voorstoelen verwarmd"
+            ]
+        }
+    }
+}

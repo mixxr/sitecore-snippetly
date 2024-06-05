@@ -1,0 +1,40 @@
+{
+  "widget": {
+      "items": [
+          {
+              "entity": "content",
+              "rfk_id": "rfkid_7",
+              "search": {
+                  "content": {
+                      "fields":[
+                          "type", "id","name","variant"
+                      ]
+                  },
+                  "query": {
+                      "keyphrase": "tshirt b"
+                  },
+                  "facet": {
+                      "types": [
+                          {
+                              "name": "variant",
+                              "filter": {
+                                  "values": [
+                                      "facetid_eyJ0eXBlIjoiZXEiLCJuYW1lIjoidmFyaWFudCIsInZhbHVlIjoiTSJ9"
+                                  ], 
+                                  "type": "or"
+                              } 
+                          }
+                      ]
+                  }
+              },
+              "sources": ["966706"]
+          }
+      ]
+  },
+  "context": {
+      "locale": {
+          "country": "au",
+          "language": "en"
+      }
+  }
+}

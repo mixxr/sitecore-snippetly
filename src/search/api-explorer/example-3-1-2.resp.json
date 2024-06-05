@@ -1,0 +1,93 @@
+{
+    "widgets": [
+        {
+            "rfk_id": "rfkid_7",
+            "type": "content_grid",
+            "used_in": "page",
+            "entity": "content",
+            "facet": [
+                {
+                    "name": "variant",
+                    "label": "Variant",
+                    "value": [
+                        {
+                            "id": "facetid_eyJ0eXBlIjoiZXEiLCJuYW1lIjoidmFyaWFudCIsInZhbHVlIjoiTSJ9",
+                            "text": "M",
+                            "count": 4
+                        },
+                        {
+                            "id": "facetid_eyJ0eXBlIjoiZXEiLCJuYW1lIjoidmFyaWFudCIsInZhbHVlIjoiTCJ9",
+                            "text": "L",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "type",
+                    "label": "Type",
+                    "value": [
+                        {
+                            "id": "facetid_eyJ0eXBlIjoiZXEiLCJuYW1lIjoidHlwZSIsInZhbHVlIjoiVFMxIn0=",
+                            "text": "TS1",
+                            "count": 4
+                        },
+                        {
+                            "id": "facetid_eyJ0eXBlIjoiZXEiLCJuYW1lIjoidHlwZSIsInZhbHVlIjoiVFMyIn0=",
+                            "text": "TS2",
+                            "count": 2
+                        }
+                    ]
+                }
+            ],
+            "content": [
+                {
+                    "id": "12345",
+                    "name": "TSHIRT B WHITE BASIC WHITE M",
+                    "source_id": "966706",
+                    "type": "TS1",
+                    "variant": "M"
+                },
+                {
+                    "id": "23423",
+                    "name": "TSHIRT I NEVER VOTED FOR HIM",
+                    "source_id": "966706",
+                    "type": "TS2",
+                    "variant": "M"
+                },
+                {
+                    "id": "12346",
+                    "name": "TSHIRT B WHITE BASIC WHITE L",
+                    "source_id": "966706",
+                    "type": "TS1",
+                    "variant": "L"
+                },
+                {
+                    "id": "23424",
+                    "name": "TSHIRT A-TEAM",
+                    "source_id": "966706",
+                    "type": "TS2",
+                    "variant": "M"
+                },
+                {
+                    "id": "12347",
+                    "name": "TSHIRT B WHITE BASIC WHITE S",
+                    "source_id": "966706",
+                    "type": "TS1",
+                    "variant": "S"
+                },
+                {
+                    "id": "23401",
+                    "name": "tshirt B lowercase",
+                    "source_id": "966706",
+                    "type": "TS1",
+                    "variant": "M"
+                }
+            ],
+            "total_item": 6,
+            "limit": 6,
+            "offset": 0
+        }
+    ],
+    "dt": 37,
+    "ts": 1710410012505
+}
