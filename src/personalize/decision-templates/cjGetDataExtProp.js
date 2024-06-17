@@ -14,7 +14,7 @@
   
     for (var i = 0; i < guest.sessions.length; i++){
         let val = getPropValue(guest.sessions[i]);
-        if (val) return val;
+        if (val !== undefined && val !== null) return val;
     }
       
     return undefined;
