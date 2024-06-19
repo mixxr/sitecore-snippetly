@@ -7,6 +7,7 @@
         var event = session.events[i];
         if (event.type === eventType &&
           event.status === 'PROCESSED' &&
+          event.arbitraryData.ext &&
           event.arbitraryData.ext[propName] !== undefined) return event.arbitraryData.ext[propName];
       }
       return undefined;

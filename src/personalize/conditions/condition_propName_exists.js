@@ -11,6 +11,7 @@ The property named [[Property Name]] exists in an event of [[Event Type]]
         var event = session.events[i];
         if (event.type === eventType &&
           event.status === 'PROCESSED' &&
+          event.arbitraryData.ext &&
           event.arbitraryData.ext[propName] !== undefined &&
           event.arbitraryData.ext[propName] !== null) return true;
       }
